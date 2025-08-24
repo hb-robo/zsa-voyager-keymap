@@ -10,7 +10,8 @@ I'm able to mirror my layout changes from ZSA's Oryx keymap editor (which has pr
 
 The Voyager is a split, columnar, wired 52-key keyboard that looks like this:
 
-![a picture of my white ZSA Voyager split keyboard. It has a 52-key layout, with 4 rows of 6 keys and two thumb buttons per side](https://imgur.com/a/WMCE6Px)
+![a picture of my white ZSA Voyager split keyboard. It has a 52-key layout, with 4 rows of 6 keys and two thumb buttons per side](https://github.com/user-attachments/assets/9900abc4-bc69-485e-a865-5d9fba9cd13e)
+
 
 I've had this keyboard since February 2025. This came about when I started putting consistent effort into practicing touch typing for the first time. I found the assymetry of my no-name chiclet keyboard to cause significant pain as my typing speed increased. It dawned on me that I likely adopted suboptimal typing habits *specifially to avoid this kind of hand discomfort*. Next thing I knew, I was down the ergomech rabbit hole.
 
@@ -20,7 +21,7 @@ There are a number of quality split keyboard options out there, but I landed on 
 3. I wasn't interested in building it myself or risking a cheaper option with worse QC
 4. Access to ZSA Oryx, probably the best keymap software in the business, especially for beginners
 5. It uses Choc switches, which are lower-profile and have wider keycaps than the usual MX variety on mechanical keyboards, reducing potentially straining wrist dorsiflexion
-6. They offered "blank" keycaps that still allowed for RGB guiding 
+6. They offered "blank" keycaps (desirable for touch typing practice) that still allowed for RGB hinting
 
 # keymap walkthrough and justifications
 
