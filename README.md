@@ -4,7 +4,7 @@ This is my keymap for my daily-driver keyboard, the ZSA Voyager. You can explore
 
 ## housekeeping
 
-I'm able to mirror my layout changes from ZSA's Oryx keymap editor (which has proprietary source control) to this repo through the efforts of Pierre Poulain (@poulainpi). You can do this yourself by following [this blog, highlighted by ZSA themselves](https://blog.zsa.io/oryx-custom-qmk-features).
+I'm able to mirror my layout changes from ZSA's Oryx keymap editor (which has proprietary source control) to this repo through the efforts of Pierre Poulain ([@poulainpi](https://github.com/poulainpi)). You can do this yourself by following [this blog, highlighted by ZSA themselves](https://blog.zsa.io/oryx-custom-qmk-features).
 
 ## background
 
