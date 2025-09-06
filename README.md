@@ -25,7 +25,13 @@ There are a number of quality split keyboard options out there, but I landed on 
 
 # keymap walkthrough and justifications
 
-TBD...
+WIP discussion points:
+* Pleasurable symmetry
+* The unavoidable necessity of QWERTY-likes
+* Home-row modifications, a net-good
+* The quest to eliminate hold latency
+* The number row is for chumps
+* What should the left-side wildcards *do*?
 
 ## current pain points
 
